@@ -12,3 +12,10 @@
 
 ### Посилання код
 * [Переглянути Main.java](https://github.com/kkkseeekk/OOP/blob/Task1/Task1/Main.java)
+
+### Скріншот кода 
+<img width="862" height="692" alt="image" src="https://github.com/user-attachments/assets/d669841c-7d6a-4d3d-b0fc-aee83fa4d9df" />
+
+### Скріншот виконання 
+<img width="556" height="312" alt="image" src="https://github.com/user-attachments/assets/1026308c-bff0-4c23-8b9a-879a7e58b45b" />
+
