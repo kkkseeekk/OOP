@@ -42,5 +42,6 @@
 <img width="422" height="251" alt="image" src="https://github.com/user-attachments/assets/4e0e7b76-06ea-41c7-86d8-31ebf04ae9d3" /> 
 
 ### Скріншот виконання CalcTest.java
-<img width="669" height="281" alt="image" src="https://github.com/user-attachments/assets/b68a5662-5bb4-4256-979a-eac6cfa6707a" />
+<img width="674" height="207" alt="image" src="https://github.com/user-attachments/assets/b59e9cf2-8a04-4781-afc3-4044b9bf1a38" />
+
 
