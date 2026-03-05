@@ -21,11 +21,11 @@
 ### Опис проєкту
 
 ### Посилання на код Main 
-* [[Переглянути Main.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/Main.java)
+* [Переглянути Main.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/Main.java)
 ### Посилання на код Calc
-* [[Переглянути Calc.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/Calc.java)
+* [Переглянути Calc.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/Calc.java)
 ### Посилання на код Item2d
-[[Переглянути Item2d.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/Item2d.java)
+[Переглянути Item2d.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/Item2d.java)
 ### Скріншот кода Main
 <img width="847" height="700" alt="image" src="https://github.com/user-attachments/assets/13202ed4-4093-478f-8ed8-194be996c737" />
 
