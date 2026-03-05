@@ -21,28 +21,27 @@
 ### Опис проєкту
 
 ### Посилання на код Main 
-* [Переглянути Main.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/Main.java)
+* [Переглянути Main.java]
 ### Посилання на код Calc
-* [Переглянути Calc.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/Calc.java)
+* [Переглянути Calc.java]
 ### Посилання на код Item2d
-* [Переглянути Item2d.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/Item2d.java)
+* [Переглянути Item2d.java]
 ### Посилання на CalcTest.java
-* [Переглянути CalcTest.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/CalcTest.java)
+* [Переглянути CalcTest.java]
   
 ### Скріншот кода Main
-<img width="847" height="700" alt="image" src="https://github.com/user-attachments/assets/13202ed4-4093-478f-8ed8-194be996c737" />
 
 ### Скріншот кода Calc
-<img width="812" height="837" alt="image" src="https://github.com/user-attachments/assets/8903b761-d110-4575-b66d-84a3328db9f7" />
+
 
 ### Скріншот кода Item2d
-<img width="614" height="420" alt="image" src="https://github.com/user-attachments/assets/742c51ec-4b09-403e-b009-ccdbd79d47f8" />
+
 
 ### Скріншот виконання основної програми
-<img width="422" height="251" alt="image" src="https://github.com/user-attachments/assets/4e0e7b76-06ea-41c7-86d8-31ebf04ae9d3" /> 
+
 
 ### Скріншот виконання CalcTest.java
-<img width="497" height="212" alt="image" src="https://github.com/user-attachments/assets/c7cf8624-01da-43ab-923b-562f59c1034d" />
+
 
 
 
