@@ -1,26 +1,52 @@
+package test;
+
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.fail;
+import java.io.IOException;
+import Calc; // Імпортуємо твій основний клас
+
 /**
- * Клас для тестування коректності обчислень та серіалізації.
+ * Виконує тестування розроблених класів (стиль JUnit).
  * @author Oksana Kozlova
+ * @version 1.0
  */
 public class CalcTest {
-    /**
-     * Основний метод для запуску тестів.
-     */
-    public static void main(String[] args) {
-        Calc testCalc = new Calc();
+
+    /** Перевірка основної функціональності алгоритму Варіанта 8 */
+    @Test
+    public void testCalc() {
+        Calc calc = new Calc();
         
-        System.out.println("Запуск тестування...");
+        // Тестуємо число 445: очікуємо дві '4' та одну '5'
+        calc.calculate(445);
+        int[] result = calc.getResult().counts;
         
-        // Тестуємо число 445 (має бути дві '4' і одна '5')
-        testCalc.calculate(445);
-        int[] result = testCalc.getResult().counts;
+        assertEquals("Кількість четвірок має бути 2", 2, result[4]);
+        assertEquals("Кількість п'ятірок має бути 1", 1, result[5]);
+    }
+
+    /** Перевірка серіалізації: збереження та відновлення даних */
+    @Test
+    public void testRestore() {
+        Calc calc = new Calc();
+        calc.calculate(445);
         
-        if (result[4] == 2 && result[5] == 1) {
-            System.out.println("Тест обчислень: УСПІШНО");
-        } else {
-            System.out.println("Тест обчислень: ПОМИЛКА");
+        try {
+            calc.save();
+        } catch (IOException e) {
+            fail("Помилка при збереженні: " + e.getMessage());
         }
+
+        calc.calculate(111); // Змінюємо дані в пам'яті
         
-        System.out.println("Тестування завершено.");
+        try {
+            calc.restore();
+        } catch (Exception e) {
+            fail("Помилка при відновленні: " + e.getMessage());
+        }
+
+        // Перевіряємо, чи повернулися початкові дані
+        assertEquals(445, calc.getResult().number);
     }
 }
