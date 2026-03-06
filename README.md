@@ -21,13 +21,13 @@
 ### Опис проєкту
 
 ### Посилання на код Main 
-* [Переглянути Main.java]
+* [Переглянути Main.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/src/ex01/Main.java)
 ### Посилання на код Calc
-* [Переглянути Calc.java]
+* [Переглянути Calc.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/src/ex01/Calc.java)
 ### Посилання на код Item2d
-* [Переглянути Item2d.java]
-### Посилання на CalcTest.java
-* [Переглянути MainTest.java]
+* [Переглянути Item2d.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/src/ex01/Item2d.java)
+### Посилання на MainTest.java
+* [Переглянути MainTest.java](https://github.com/kkkseeekk/OOP/blob/Task2/Task2/test/ex01/MainTest.java)
   
 ### Скріншот кода Main
 <img width="781" height="628" alt="image" src="https://github.com/user-attachments/assets/facc75a0-84b5-4827-8c13-7b93192cb602" />
