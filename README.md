@@ -28,7 +28,7 @@
 ### Скріншот кода ViewbleTable
 <img width="474" height="247" alt="image" src="https://github.com/user-attachments/assets/b754d322-9e75-49a6-af6d-c9942fc7ec5d" />
 
-### Скріншот кода ViewbTable
+### Скріншот кода ViewTable
 <img width="562" height="931" alt="image" src="https://github.com/user-attachments/assets/e8f20e6c-7b2e-4175-ad34-de5d7a556817" />
 <img width="475" height="199" alt="image" src="https://github.com/user-attachments/assets/89f74f33-65ef-4c36-bec2-7ab4bd304856" />
 
