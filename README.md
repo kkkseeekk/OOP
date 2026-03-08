@@ -12,8 +12,8 @@
 ### Посилання на код Main 
 * [Переглянути Main.java](https://github.com/kkkseeekk/OOP/blob/Task4/Task4/src/ex03/Main.java)
 
-### Посилання на код ViewTable
-* [Переглянути ViewTable.java](https://github.com/kkkseeekk/OOP/blob/Task4/Task4/src/ex03/ViewTable.java)
+### Посилання на код ViewableTable
+* [Переглянути ViewableTable.java](https://github.com/kkkseeekk/OOP/blob/Task4/Task4/src/ex03/ViewTable.java)
 
 ### Посилання на код ViewableTable
 * [Переглянути ViewableTable.java](https://github.com/kkkseeekk/OOP/blob/Task4/Task4/src/ex03/ViewableTable.java)
