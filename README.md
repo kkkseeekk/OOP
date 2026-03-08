@@ -37,4 +37,7 @@
 <img width="633" height="204" alt="image" src="https://github.com/user-attachments/assets/59e93833-c330-4668-81f5-74f0e59353a7" />
 
 ### Скріншот виконання основної програми
-<img width="637" height="503" alt="image" src="https://github.com/user-attachments/assets/da4d72d6-1bc2-4cef-afb4-b36aae3673fd" />
+<img width="461" height="407" alt="image" src="https://github.com/user-attachments/assets/a80355a2-c425-426f-bd56-406f8d6642a2" />
+
+### Скріншот кода MainTest
+<img width="662" height="261" alt="image" src="https://github.com/user-attachments/assets/e18e1399-1ac6-43d8-9a39-25a6dd046ed8" />
