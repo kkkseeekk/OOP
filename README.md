@@ -42,6 +42,9 @@
 ### Посилання на код ViewConsoleCommand
 * [Переглянути ViewConsoleCommand.java](https://github.com/kkkseeekk/OOP/blob/Task5/Task5/src/ex04/ViewConsoleCommand.java)
 
+### Посилання на код MainTest
+* [Переглянути MainTest.java](https://github.com/kkkseeekk/OOP/blob/Task5/Task5/test/ex04/MainTest.java)
+
 ### Скріншот кода Main
 <img width="479" height="269" alt="image" src="https://github.com/user-attachments/assets/21acdfe7-ad38-4408-8ac7-2208086928d5" />
 
