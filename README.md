@@ -7,3 +7,9 @@
 3. При розробці програми використовувати шаблон Singletone.
 4. Забезпечити діалоговий інтерфейс із користувачем.
 5. Розробити клас для тестування функціональності програми.
+
+### Скріншот виконання основної програми
+<img width="532" height="499" alt="image" src="https://github.com/user-attachments/assets/8eb46f68-33e7-4a15-b44e-8bf76fa25eb4" />
+
+### Скріншот кода MainTest
+<img width="680" height="259" alt="image" src="https://github.com/user-attachments/assets/fa24f290-f3bf-4c0a-9747-aaf7e489b46e" />
