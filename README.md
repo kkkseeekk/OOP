@@ -18,3 +18,9 @@
 
 ### Завдання №4
 **Посилання на завдання:** [Переглянути](https://github.com/kkkseeekk/OOP/tree/Task4)
+
+### Завдання №5
+**Посилання на завдання:** [Переглянути](https://github.com/kkkseeekk/OOP/tree/Task5)
+
+### Завдання №6
+**Посилання на завдання:** [Переглянути](https://github.com/kkkseeekk/OOP/tree/Task6)
