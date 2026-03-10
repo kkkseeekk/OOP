@@ -39,5 +39,5 @@
 ### Скріншот виконання основної програми
 <img width="461" height="407" alt="image" src="https://github.com/user-attachments/assets/a80355a2-c425-426f-bd56-406f8d6642a2" />
 
-### Скріншот кода MainTest
+### Скріншот виконання MainTest
 <img width="662" height="261" alt="image" src="https://github.com/user-attachments/assets/e18e1399-1ac6-43d8-9a39-25a6dd046ed8" />
