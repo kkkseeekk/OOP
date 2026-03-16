@@ -11,22 +11,22 @@
 * [Переглянути Main.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/Main.java)
 
 ### Посилання на код AvgCommand
-*[Переглянути AvgCommand.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/AvgCommand.java)
+* [Переглянути AvgCommand.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/AvgCommand.java)
 
 ### Посилання на код CommandQueue
-*[Переглянути CommandQueue.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/CommandQueue.java)
+* [Переглянути CommandQueue.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/CommandQueue.java)
 
 ### Посилання на код ExecuteConsoleCommand
-*[Переглянути ExecuteConsoleCommand.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/ExecuteConsoleCommand.java)
+* [Переглянути ExecuteConsoleCommand.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/ExecuteConsoleCommand.java)
 
 ### Посилання на код MaxCommand
-*[Переглянути MaxCommand.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/MaxCommand.java)
+* [Переглянути MaxCommand.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/MaxCommand.java)
 
 ### Посилання на код MinMaxCommand
-*[Переглянути MinMaxCommand.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/MinMaxCommand.java)
+* [Переглянути MinMaxCommand.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/src/ex05/MinMaxCommand.java)
 
 ### Посилання на код MainTest
 * [Переглянути MainTest.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/test/ex05/MainTest.java)
 
 ### Посилання на усі скріншоти
-*[Переглянути](https://github.com/kkkseeekk/OOP/tree/Task6/Task6/%D0%A1%D0%BA%D1%80%D1%96%D0%BD%D1%88%D0%BE%D1%82%D0%B8%20%D0%9F%D0%A06)
+* [Переглянути](https://github.com/kkkseeekk/OOP/tree/Task6/Task6/%D0%A1%D0%BA%D1%80%D1%96%D0%BD%D1%88%D0%BE%D1%82%D0%B8%20%D0%9F%D0%A06)
