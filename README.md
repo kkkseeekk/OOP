@@ -28,5 +28,5 @@
 ### Посилання на код MainTest
 * [Переглянути MainTest.java](https://github.com/kkkseeekk/OOP/blob/Task6/Task6/test/ex05/MainTest.java)
 
-### Скріншот кода Main
-
+### Посилання на усі скріншоти
+*[Переглянути](https://github.com/kkkseeekk/OOP/tree/Task6/Task6/%D0%A1%D0%BA%D1%80%D1%96%D0%BD%D1%88%D0%BE%D1%82%D0%B8%20%D0%9F%D0%A06)
